@@ -1,0 +1,72 @@
+body {
+	background: #E4E4E2;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: 600;
+	color: #333;
+	opacity: 0.8;
+	-webkit-font-smoothing: antialiased;
+}
+a {
+	color: inherit;
+}
+a:visited {
+	color: inherit;
+}
+a:hover {
+	color: #1291B5;
+}
+#intro-text {
+	width: 65%;
+	margin: 0 auto;
+	margin-top: 30px;
+	font-weight: 600;
+	font-size: 30px;
+	color: #222;
+	opacity: 1;
+}
+#fired-counter {
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+	color: #A52A2A;
+	font-size: 250px;
+	text-align: center;
+	opacity: 1;
+	/*background-color: #320D0D;
+  	color: transparent;
+  	text-shadow: 0px 2px 3px rgba(255,228,181,0.5);
+  	-webkit-background-clip: text;
+    	-moz-background-clip: text;
+        	background-clip: text;*/
+}
+.posts-wrapper {
+	width: 65%;
+	margin: 0 auto;
+	margin-top: 5px;
+	clear: both;
+}
+.post-label {
+	color: #000;
+	opacity: 1;
+	float: left;
+}
+.post-category {
+	float: left;
+	font-weight: 500;
+}
+.post-date {
+	width: 15%;
+}
+.post-company {
+	width: 27%;
+	padding-right: 1%;
+}
+.post-offended {
+	width: 31%;
+	padding-right: 1%;
+}
+.post-link {
+	width: 24%;
+}
